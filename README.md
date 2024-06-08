@@ -10,3 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/mrlucasrib/leetcode/tree/master/0908-middle-of-the-linked-list) |
+# Array
+|  |
+| ------- |
+| [0057-insert-interval](https://github.com/mrlucasrib/leetcode/tree/master/0057-insert-interval) |
