@@ -14,7 +14,6 @@ class Solution:
 
             
         ans = []
-        print(hp,identifier)
         for dist in heapq.nsmallest(k, hp):
             ans.append(identifier[dist].pop())
 
