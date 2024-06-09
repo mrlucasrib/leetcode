@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrlucasrib/leetcode/tree/master/0001-two-sum) |
 | [0057-insert-interval](https://github.com/mrlucasrib/leetcode/tree/master/0057-insert-interval) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/mrlucasrib/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -52,3 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/mrlucasrib/leetcode/tree/master/1014-k-closest-points-to-origin) |
+# Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mrlucasrib/leetcode/tree/master/0001-two-sum) |
