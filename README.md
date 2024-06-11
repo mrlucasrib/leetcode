@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/mrlucasrib/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
 # Matrix
 |  |
@@ -60,3 +61,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrlucasrib/leetcode/tree/master/0001-two-sum) |
+# Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/mrlucasrib/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/mrlucasrib/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
