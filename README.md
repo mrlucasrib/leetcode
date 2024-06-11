@@ -9,11 +9,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mrlucasrib/leetcode/tree/master/0015-3sum) |
 | [0908-middle-of-the-linked-list](https://github.com/mrlucasrib/leetcode/tree/master/0908-middle-of-the-linked-list) |
 # Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrlucasrib/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mrlucasrib/leetcode/tree/master/0015-3sum) |
 | [0057-insert-interval](https://github.com/mrlucasrib/leetcode/tree/master/0057-insert-interval) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/mrlucasrib/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mrlucasrib/leetcode/tree/master/0015-3sum) |
 | [1014-k-closest-points-to-origin](https://github.com/mrlucasrib/leetcode/tree/master/1014-k-closest-points-to-origin) |
 # Heap (Priority Queue)
 |  |
