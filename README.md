@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mrlucasrib/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/mrlucasrib/leetcode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/mrlucasrib/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
 # Matrix
 |  |
@@ -77,11 +78,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mrlucasrib/leetcode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/mrlucasrib/leetcode/tree/master/0207-course-schedule) |
 # Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/mrlucasrib/leetcode/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/mrlucasrib/leetcode/tree/master/0207-course-schedule) |
 # Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrlucasrib/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+# Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mrlucasrib/leetcode/tree/master/0207-course-schedule) |
