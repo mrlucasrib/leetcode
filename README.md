@@ -98,3 +98,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0054-spiral-matrix) |
+# String
+|  |
+| ------- |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/mrlucasrib/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+# Enumeration
+|  |
+| ------- |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/mrlucasrib/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
