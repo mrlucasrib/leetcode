@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/mrlucasrib/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mrlucasrib/leetcode/tree/master/0015-3sum) |
+| [0054-spiral-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/mrlucasrib/leetcode/tree/master/0057-insert-interval) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrlucasrib/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0054-spiral-matrix) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
 # Math
 |  |
@@ -92,3 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mrlucasrib/leetcode/tree/master/0207-course-schedule) |
+# Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0054-spiral-matrix) |
