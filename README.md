@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/mrlucasrib/leetcode/tree/master/0057-insert-interval) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrlucasrib/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/mrlucasrib/leetcode/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/mrlucasrib/leetcode/tree/master/1014-k-closest-points-to-origin) |
 # Dynamic Programming
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mrlucasrib/leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/mrlucasrib/leetcode/tree/master/0217-contains-duplicate) |
 | [1014-k-closest-points-to-origin](https://github.com/mrlucasrib/leetcode/tree/master/1014-k-closest-points-to-origin) |
 # Heap (Priority Queue)
 |  |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/mrlucasrib/leetcode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/mrlucasrib/leetcode/tree/master/0133-clone-graph) |
+| [0217-contains-duplicate](https://github.com/mrlucasrib/leetcode/tree/master/0217-contains-duplicate) |
 # Tree
 |  |
 | ------- |
