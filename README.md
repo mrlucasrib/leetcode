@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrlucasrib/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/mrlucasrib/leetcode/tree/master/0155-min-stack) |
 | [0874-backspace-string-compare](https://github.com/mrlucasrib/leetcode/tree/master/0874-backspace-string-compare) |
 # Topological Sort
 |  |
@@ -113,3 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/mrlucasrib/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+# Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mrlucasrib/leetcode/tree/master/0155-min-stack) |
