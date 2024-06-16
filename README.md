@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/mrlucasrib/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mrlucasrib/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mrlucasrib/leetcode/tree/master/0155-min-stack) |
 | [0874-backspace-string-compare](https://github.com/mrlucasrib/leetcode/tree/master/0874-backspace-string-compare) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/mrlucasrib/leetcode/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/mrlucasrib/leetcode/tree/master/0874-backspace-string-compare) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/mrlucasrib/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 # Enumeration
