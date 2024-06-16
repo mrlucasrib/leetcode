@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mrlucasrib/leetcode/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/mrlucasrib/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/mrlucasrib/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -120,3 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mrlucasrib/leetcode/tree/master/0155-min-stack) |
+# Greedy
+|  |
+| ------- |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/mrlucasrib/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
