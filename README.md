@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mrlucasrib/leetcode/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/mrlucasrib/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/mrlucasrib/leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mrlucasrib/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 # Dynamic Programming
 |  |
@@ -35,11 +36,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/mrlucasrib/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/mrlucasrib/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
+| [1036-rotting-oranges](https://github.com/mrlucasrib/leetcode/tree/master/1036-rotting-oranges) |
 # Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0054-spiral-matrix) |
 | [0542-01-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0542-01-matrix) |
+| [1036-rotting-oranges](https://github.com/mrlucasrib/leetcode/tree/master/1036-rotting-oranges) |
 # Math
 |  |
 | ------- |
