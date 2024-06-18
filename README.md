@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/mrlucasrib/leetcode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/mrlucasrib/leetcode/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/mrlucasrib/leetcode/tree/master/0217-contains-duplicate) |
+| [1023-time-based-key-value-store](https://github.com/mrlucasrib/leetcode/tree/master/1023-time-based-key-value-store) |
 # Tree
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/mrlucasrib/leetcode/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/mrlucasrib/leetcode/tree/master/0874-backspace-string-compare) |
+| [1023-time-based-key-value-store](https://github.com/mrlucasrib/leetcode/tree/master/1023-time-based-key-value-store) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/mrlucasrib/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 # Enumeration
 |  |
@@ -124,7 +126,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mrlucasrib/leetcode/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/mrlucasrib/leetcode/tree/master/1023-time-based-key-value-store) |
 # Greedy
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mrlucasrib/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+# Binary Search
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/mrlucasrib/leetcode/tree/master/1023-time-based-key-value-store) |
