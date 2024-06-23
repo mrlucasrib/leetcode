@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/mrlucasrib/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mrlucasrib/leetcode/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/mrlucasrib/leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/mrlucasrib/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/mrlucasrib/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mrlucasrib/leetcode/tree/master/0057-insert-interval) |
@@ -147,3 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/mrlucasrib/leetcode/tree/master/0721-accounts-merge) |
+# Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/mrlucasrib/leetcode/tree/master/0046-permutations) |
