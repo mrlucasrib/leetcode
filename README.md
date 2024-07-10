@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mrlucasrib/leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/mrlucasrib/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -188,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mrlucasrib/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
