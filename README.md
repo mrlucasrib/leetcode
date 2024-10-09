@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -193,4 +194,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mrlucasrib/leetcode/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
