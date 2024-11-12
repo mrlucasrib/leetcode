@@ -221,4 +221,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrlucasrib/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/mrlucasrib/leetcode/tree/master/0310-minimum-height-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/mrlucasrib/leetcode/tree/master/0310-minimum-height-trees) |
+## Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/mrlucasrib/leetcode/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/mrlucasrib/leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
