@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlucasrib/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/mrlucasrib/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
+| [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -208,4 +210,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlucasrib/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
