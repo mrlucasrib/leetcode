@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlucasrib/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/mrlucasrib/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mrlucasrib/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlucasrib/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mrlucasrib/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/mrlucasrib/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
