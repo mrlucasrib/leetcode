@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/mrlucasrib/leetcode/tree/master/0621-task-scheduler) |
+| [0739-daily-temperatures](https://github.com/mrlucasrib/leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,4 +253,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/mrlucasrib/leetcode/tree/master/0621-task-scheduler) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mrlucasrib/leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mrlucasrib/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
