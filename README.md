@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/mrlucasrib/leetcode/tree/master/0031-next-permutation) |
 | [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/mrlucasrib/leetcode/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/mrlucasrib/leetcode/tree/master/0198-house-robber) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/mrlucasrib/leetcode/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
