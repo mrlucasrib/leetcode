@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mrlucasrib/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/mrlucasrib/leetcode/tree/master/0031-next-permutation) |
 | [0287-find-the-duplicate-number](https://github.com/mrlucasrib/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
@@ -278,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/mrlucasrib/leetcode/tree/master/0198-house-robber) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mrlucasrib/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
