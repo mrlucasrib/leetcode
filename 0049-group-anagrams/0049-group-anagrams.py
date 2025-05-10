@@ -15,7 +15,6 @@ class Solution:
             positions[key].append(s)
 
         ans = []
-        print(positions)
         for val in positions.values():
             ans.append(val)
         return ans
