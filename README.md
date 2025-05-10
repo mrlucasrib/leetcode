@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/mrlucasrib/leetcode/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/mrlucasrib/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/mrlucasrib/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mrlucasrib/leetcode/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/mrlucasrib/leetcode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrlucasrib/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/mrlucasrib/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mrlucasrib/leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/mrlucasrib/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mrlucasrib/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/mrlucasrib/leetcode/tree/master/0621-task-scheduler) |
@@ -283,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrlucasrib/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mrlucasrib/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
