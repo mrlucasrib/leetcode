@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mrlucasrib/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/mrlucasrib/leetcode/tree/master/0206-reverse-linked-list) |
 ## Union Find
 |  |
 | ------- |
@@ -305,4 +306,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mrlucasrib/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mrlucasrib/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
