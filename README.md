@@ -254,10 +254,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/mrlucasrib/leetcode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/mrlucasrib/leetcode/tree/master/0310-minimum-height-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/mrlucasrib/leetcode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/mrlucasrib/leetcode/tree/master/0310-minimum-height-trees) |
 ## Graph
 |  |
@@ -310,4 +312,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mrlucasrib/leetcode/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mrlucasrib/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/mrlucasrib/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
