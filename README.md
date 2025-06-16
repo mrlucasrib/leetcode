@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/mrlucasrib/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/mrlucasrib/leetcode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/mrlucasrib/leetcode/tree/master/0739-daily-temperatures) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mrlucasrib/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/mrlucasrib/leetcode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/mrlucasrib/leetcode/tree/master/0621-task-scheduler) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mrlucasrib/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Backtracking
 |  |
 | ------- |
