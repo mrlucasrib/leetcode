@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrlucasrib/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/mrlucasrib/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/mrlucasrib/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/mrlucasrib/leetcode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/mrlucasrib/leetcode/tree/master/0739-daily-temperatures) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mrlucasrib/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mrlucasrib/leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mrlucasrib/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/mrlucasrib/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/mrlucasrib/leetcode/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/mrlucasrib/leetcode/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/mrlucasrib/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/mrlucasrib/leetcode/tree/master/0621-task-scheduler) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/mrlucasrib/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Backtracking
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/mrlucasrib/leetcode/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/mrlucasrib/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
