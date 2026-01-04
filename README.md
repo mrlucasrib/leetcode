@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrlucasrib/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/mrlucasrib/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mrlucasrib/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/mrlucasrib/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/mrlucasrib/leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/mrlucasrib/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mrlucasrib/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/mrlucasrib/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrlucasrib/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
